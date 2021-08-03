@@ -1,6 +1,10 @@
 # Broccoli Privacy Policy
 
-This privacy policy will explain how we use the personal data we collect from you when you use the app Broccoli (subsequently “app”) in accordance with the EU General Data Protection Regulation (GDPR).
+<details>
+  <summary>English</summary>
+  
+  ## Broccoli Privacy Policy
+  This privacy policy will explain how we use the personal data we collect from you when you use the app Broccoli (subsequently “app”) in accordance with the EU General Data Protection Regulation (GDPR).
 
 According to Art. 4(1) GDPR, ‘personal data’ means any information that can be related to you personally; this includes, for example, your name, your email address or any online identifiers.
 
@@ -69,3 +73,81 @@ Landesbeauftragter für Datenschutz und Informationsfreiheit Baden-Württemberg
 Königstraße 10 a  
 70173 Stuttgart  
 poststelle@lfdi.bwl.de
+</details>
+
+<details>
+  <summary>Deutsch</summary>
+  
+  ## Broccoli Datenschutzerklärung
+
+Diese Datenschutzerklärung erläutert, wie wir die personenbezogenen Daten, die wir von dir bei der Nutzung der App Broccoli (nachfolgend "App") erheben, in Übereinstimmung mit der EU-Datenschutzgrundverordnung (DSGVO) verwenden.
+
+Gemäß Art. 4(1) DSGVO sind "personenbezogene Daten" alle Informationen, die mit dir persönlich in Verbindung gebracht werden können; dazu gehören z.B. dein Name, deine E-Mail-Adresse oder jegliche Online-Kennungen.
+
+## Wie du uns kontaktieren kannst
+Die Anbieterin der App ist Jana Kutscheid (nachfolgend "wir"). Jana Kutscheid ist auch die Verantwortliche im Sinne des Datenschutzrechts.
+
+Wenn du Fragen zu unseren Datenschutzbestimmungen und den von uns über dich gespeicherten Daten hast oder eines deiner Datenschutzrechte ausüben möchtest, kannst du uns gerne unter support@flauschcode.com kontaktieren.
+
+## Wie wir personenbezogene Daten verarbeiten
+
+### Google Play Store
+Es ist notwendig, dass du ein Konto bei Google registrierst, um
+* unsere App aus dem Google Play Store herunterzuladen und zu installieren
+* (optional) die Premium-Version unserer App aus dem Google Play Store zu kaufen.
+
+Wir haben keinen Einfluss auf und sind nicht verantwortlich für die Erhebung von Daten zum Zwecke des Download-, Installations- und Abrechnungsprozesses.
+Bitte beachte in diesem Zusammenhang die Datenschutzhinweise von Google: https://www.google.com/policies/privacy/
+
+Wenn du dich für den Kauf der Premium-Version unserer App entscheidest, erhalten wir die folgenden Daten aus dem Google Play Store:
+* deine Bestell-ID
+* den Zeitpunkt deines Kaufs
+
+Wir erheben diese Daten, damit wir die Premium-Funktionen unserer App für dich freischalten können. Wir speichern diese Daten nicht und sie verlassen auch nicht dein mobiles Gerät.
+
+Die Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6(1) Punkt (f) DSGVO und unser berechtigtes Interesse, Käufe zu verifizieren. 
+
+### Nutzung
+Die Inhalte, die du innerhalb unserer App erstellst, werden nur auf deinem mobilen Gerät gespeichert. Aus diesem Grund empfehlen wir dir, deine Daten regelmäßig mit unserer Backup-Funktion zu sichern und dort zu speichern, wo du sie haben möchtest.
+
+Wenn du dich aktiv dafür entscheidest, eine URL mit unserer App zu teilen, wird eine Anfrage an diese URL gestellt, die deine IP-Adresse enthält. Wir übertragen diese Daten, damit wir eine Antwort mit den Rezeptdaten erhalten können.
+
+Die Rechtsgrundlage für die Übermittlung der Daten ist Art. 6(1) Punkt (f) DSGVO und unser berechtigtes Interesse, deine IP-Adresse zu nutzen, um ein webbasiertes Feature anzubieten. 
+
+### Support
+Wenn du dich dafür entscheidest, uns eine Support-Anfrage zu senden oder Feedback per E-Mail zu geben, erheben wir die folgenden Daten:
+* deinen Namen
+* deine E-Mail Adresse
+* das Datum und die Uhrzeit deiner Anfrage
+* den Inhalt deiner Anfrage
+
+Wir sammeln deine Daten, damit wir deine Support-Anfrage bearbeiten können. Wir verwenden deine E-Mail-Adresse nur um Support oder Feedback zu geben. Sobald deine Supportanfrage abgeschlossen ist, werden wir deine Daten löschen.
+
+Die Rechtsgrundlage für die Speicherung der Daten ist Art. 6(1) Punkt (f) DSGVO und unser berechtigtes Interesse, deine Anfrage zu beantworten. 
+
+## Deine Rechte
+Wir möchten sicherstellen, dass du über alle deine Datenschutzrechte informiert bist. Jeder Nutzer hat das Recht auf Folgendes:
+* das Recht auf Auskunft
+* das Recht auf Berichtigung
+* das Recht auf Löschung 
+* das Recht auf Einschränkung der Verarbeitung
+* das Recht auf Widerspruch gegen die Verarbeitung 
+* das Recht auf Datenübertragbarkeit 
+
+Wenn du eine Anfrage stellst, haben wir einen Monat Zeit, dir zu antworten. Wenn du eines dieser Rechte ausüben möchtest, kontaktiere uns bitte unter support@flauschcode.com.
+
+## Datenschutzrichtlinien anderer Websites
+Unsere App enthält Links zu anderen Websites. Unsere Datenschutzrichtlinien gelten nur für unsere App. Wenn du also auf einen Link zu einer anderen Website klickst, solltest du deren Datenschutzrichtlinien lesen.
+
+## Änderungen an unserer Datenschutzerklärung
+Wir überprüfen unsere Datenschutzrichtlinien regelmäßig und veröffentlichen jede Aktualisierung auf dieser Webseite. Diese Datenschutzrichtlinie wurde zuletzt am 03. August 2021 aktualisiert.
+
+## Wie man die zuständige Behörde kontaktiert
+Solltest du eine Beschwerde melden wollen oder das Gefühl haben, dass wir dein Anliegen nicht zufriedenstellend behandelt haben, kannst du dich wenden an
+
+Landesbeauftragter für Datenschutz und Informationsfreiheit Baden-Württemberg  
+Königstraße 10 a  
+70173 Stuttgart  
+poststelle@lfdi.bwl.de
+</details>
+
